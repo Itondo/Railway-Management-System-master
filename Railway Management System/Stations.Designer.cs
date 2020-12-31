@@ -173,7 +173,7 @@
         }
 
         #endregion
-фыв
+
         private System.Windows.Forms.TextBox SType;
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.TextBox SName;
